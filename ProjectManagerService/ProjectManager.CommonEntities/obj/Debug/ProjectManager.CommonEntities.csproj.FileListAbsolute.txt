@@ -1,0 +1,20 @@
+F:\Projects\Git\Git_ProjectManager\Git-Projects\ProjectManagerService\ProjectManagerService\ProjectManager.CommonEntities\bin\Debug\ProjectManager.CommonEntities.dll
+F:\Projects\Git\Git_ProjectManager\Git-Projects\ProjectManagerService\ProjectManagerService\ProjectManager.CommonEntities\bin\Debug\ProjectManager.CommonEntities.pdb
+F:\Projects\Git\Git_ProjectManager\Git-Projects\ProjectManagerService\ProjectManagerService\ProjectManager.CommonEntities\obj\Debug\ProjectManager.CommonEntities.dll
+F:\Projects\Git\Git_ProjectManager\Git-Projects\ProjectManagerService\ProjectManagerService\ProjectManager.CommonEntities\obj\Debug\ProjectManager.CommonEntities.pdb
+C:\New folder\Senthil\Product_manager_2\Git-Projects\ProjectManagerService\ProjectManagerService\ProjectManager.CommonEntities\bin\Debug\ProjectManager.CommonEntities.dll
+C:\New folder\Senthil\Product_manager_2\Git-Projects\ProjectManagerService\ProjectManagerService\ProjectManager.CommonEntities\bin\Debug\ProjectManager.CommonEntities.pdb
+C:\New folder\Senthil\Product_manager_2\Git-Projects\ProjectManagerService\ProjectManagerService\ProjectManager.CommonEntities\obj\Debug\ProjectManager.CommonEntities.csprojResolveAssemblyReference.cache
+C:\New folder\Senthil\Product_manager_2\Git-Projects\ProjectManagerService\ProjectManagerService\ProjectManager.CommonEntities\obj\Debug\ProjectManager.CommonEntities.dll
+C:\New folder\Senthil\Product_manager_2\Git-Projects\ProjectManagerService\ProjectManagerService\ProjectManager.CommonEntities\obj\Debug\ProjectManager.CommonEntities.pdb
+C:\Users\Admin\ProductManager_Final\ProductManager_Final\ProjectManagerService\ProjectManagerService\ProjectManager.CommonEntities\bin\Debug\ProjectManager.CommonEntities.dll
+C:\Users\Admin\ProductManager_Final\ProductManager_Final\ProjectManagerService\ProjectManagerService\ProjectManager.CommonEntities\bin\Debug\ProjectManager.CommonEntities.pdb
+C:\Users\Admin\ProductManager_Final\ProductManager_Final\ProjectManagerService\ProjectManagerService\ProjectManager.CommonEntities\obj\Debug\ProjectManager.CommonEntities.csprojResolveAssemblyReference.cache
+C:\Users\Admin\ProductManager_Final\ProductManager_Final\ProjectManagerService\ProjectManagerService\ProjectManager.CommonEntities\obj\Debug\ProjectManager.CommonEntities.dll
+C:\Users\Admin\ProductManager_Final\ProductManager_Final\ProjectManagerService\ProjectManagerService\ProjectManager.CommonEntities\obj\Debug\ProjectManager.CommonEntities.pdb
+C:\Users\Admin\Source\Repos\NewRepo\ProjectManagerService\ProjectManager.CommonEntities\bin\Debug\ProjectManager.CommonEntities.dll
+C:\Users\Admin\Source\Repos\NewRepo\ProjectManagerService\ProjectManager.CommonEntities\bin\Debug\ProjectManager.CommonEntities.pdb
+C:\Users\Admin\Source\Repos\NewRepo\ProjectManagerService\ProjectManager.CommonEntities\obj\Debug\ProjectManager.CommonEntities.csprojAssemblyReference.cache
+C:\Users\Admin\Source\Repos\NewRepo\ProjectManagerService\ProjectManager.CommonEntities\obj\Debug\ProjectManager.CommonEntities.csproj.CoreCompileInputs.cache
+C:\Users\Admin\Source\Repos\NewRepo\ProjectManagerService\ProjectManager.CommonEntities\obj\Debug\ProjectManager.CommonEntities.dll
+C:\Users\Admin\Source\Repos\NewRepo\ProjectManagerService\ProjectManager.CommonEntities\obj\Debug\ProjectManager.CommonEntities.pdb
